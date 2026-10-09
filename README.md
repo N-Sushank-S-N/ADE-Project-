@@ -1,4 +1,4 @@
-# Adaptive Personal Data Expiry Pipeline (ABDEE)
+<img width="763" height="422" alt="image" src="https://github.com/user-attachments/assets/e83904d6-b58b-44bf-876a-3c9c541a19dd" /># Adaptive Personal Data Expiry Pipeline (ABDEE)
 
 ### An Adaptive, Behavior-Driven Framework for Personal Data Relevance and Expiry
 
@@ -247,6 +247,20 @@ Potential applications of the underlying approach include:
 - Relevance-aware retention of user-associated features.
 - Context-sensitive ranking and personalization.
 - Research into time-aware data lifecycle management.
+
+## Screenshots
+Login Page ABDEE:
+<img width="766" height="370" alt="image" src="https://github.com/user-attachments/assets/fc859840-51ca-4dd2-8382-3a219ba5ca5e" />
+
+DashBoard ABDEE:
+<img width="765" height="415" alt="image" src="https://github.com/user-attachments/assets/9541da41-cc2c-4bee-a3de-062b5265566d" />
+
+Login Page PandaStream:
+<img width="765" height="370" alt="image" src="https://github.com/user-attachments/assets/05cfb29f-6ccb-40dc-941b-1e02714ad9e7" />
+
+Dashboard for PandaStream: 
+<img width="763" height="422" alt="image" src="https://github.com/user-attachments/assets/4e51b6a0-a6b1-494f-b0e1-2b25f9576a13" />
+
 
 ## Current Scope and Limitations
 
